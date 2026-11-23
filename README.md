@@ -2,7 +2,7 @@
 
 One-page Power BI dashboard for analysis of 2,747 sales orders: revenue, seasonality and pricing well off of the MSRP.
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 **Data:** "Automobile Sales data" by Dhruv D on Kaggle (https://www.kaggle.com/datasets/ddosad/auto-sales-data). License is marked as "Other" therefore data will not be uploaded. The columns of customer contacts were dropped during data cleaning process.
 
